@@ -1,6 +1,6 @@
 👋 Hi there, I'm Sandhya!
 
-🎯 Power BI Developer | Senior Data Engineer @Lowe's | 3+ Years of Experience
+🎯 Power BI Developer | Senior Data Analyst @Lowe's | 3+ Years of Experience
 
 🔍 I'm passionate about transforming raw data into meaningful dashboards and insights using Power BI, SQL, and Excel. I specialize in creating scalable data models, automation pipelines, and interactive visualizations that support data-driven decisions.
 
